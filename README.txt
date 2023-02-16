@@ -62,3 +62,6 @@ Credits:
 
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+		Font Awesome Logos/Brands - https://fontawesome.com/v5/cheatsheet/free/solid
